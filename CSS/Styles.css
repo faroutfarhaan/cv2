@@ -1,0 +1,71 @@
+body{
+    margin: 0%;  
+    text-align: center;
+    font-family:'Merriweather',serif ;
+
+}
+h1{ /* font-style:inherit;*/
+    margin-top: 0%;
+    margin-bottom: 0%;
+    font-family: 'Sacramento',cursive;
+    font-size:250%;
+}
+h2{
+    font-family: 'Montserrat',sans-serif;
+}
+p{  font-style: oblique;
+    font-size: 95%;
+    margin: 0%;
+    margin-top: 5px;
+}
+.a{
+    background-color: #87ceeb ;
+   padding: 20px;
+   padding-top: 0px;
+  /* padding-left: 40px;*/
+ /* position: absolute;*/
+}
+.middle-container{
+    
+   /* background-color: #E5F9DB;*/
+   background-color: #B9EDDD;
+
+}
+.bottom-container{
+    background-color: #19A7CE;
+    padding: 15px;
+
+}
+.cloud-top
+{
+    height: 100px;
+    margin-right: 300px;
+   /* margin-top: 20px;*/
+    position: relative;
+    top: 40px;
+    left: 5px;
+}
+.cloud-down{
+    height: 100px;
+    margin-top: 15px;
+    margin-left: 200px;
+}
+.mountain{
+   margin-top: 10px;
+   margin-bottom: 0%;
+}
+span{
+    text-decoration: underline ;
+    text-decoration-color: red;
+}
+.my-photo{
+    height: 200px;
+    padding: 20px;
+}
+
+.skill1{
+        height: 200px;
+}
+.skill2{
+    height: 200px;
+}
